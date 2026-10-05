@@ -8,7 +8,7 @@ The accompanying report (`Credit Default Prediction Report.docx`) documents the 
 
 ## 📁 Repository Structure
 
-.
+```
 ├── src/
 │   ├── ebm-bankruptcy-prediction.ipynb
 │   ├── regression-bankruptcy-prediction.ipynb
@@ -16,7 +16,7 @@ The accompanying report (`Credit Default Prediction Report.docx`) documents the 
 │       └── Bankruptcy.csv
 ├── Credit Default Prediction Report.docx
 └── README.md   ← (this file)
-
+```
 
 ---
 
